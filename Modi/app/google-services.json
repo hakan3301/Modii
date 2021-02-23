@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "759850123468",
+    "firebase_url": "https://modi-3b101.firebaseio.com",
+    "project_id": "modi-3b101",
+    "storage_bucket": "modi-3b101.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759850123468:android:932a169d09c409ac54c269",
+        "android_client_info": {
+          "package_name": "hknmodi.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "759850123468-bjndnekj8pvpiuhlmqp9ou4qdki0ei5h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "hknmodi.com",
+            "certificate_hash": "41fa7d4554bae69976e386d9d6d912243ed3e74c"
+          }
+        },
+        {
+          "client_id": "759850123468-b1rva531298ep5ue2ugtut07o4c432jc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE4fKPhlTva2ZdY-RA-LtMcBRRpFbUNbI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "759850123468-b1rva531298ep5ue2ugtut07o4c432jc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
